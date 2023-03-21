@@ -1,5 +1,8 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import HelloWorld from './components/HelloWorld.vue';
+const list = '123'
+if(1<3)console.log(12)
+console.log(list)
 </script>
 
 <template>
